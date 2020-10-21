@@ -1,8 +1,10 @@
 ## Aaqua
+Implemented a given single page design with HTML and CSS.
 
-## How to view Locally
-- If you are using VSCode, Install the 'Live Server' extension.
-- If successfully installed, right click the index.html file in the Solution Explorer
+## How to test Locally
+- git clone repo
+- On VSCode, Install the 'Live Server' extension.
+- After installation, right click the index.html file in the Solution Explorer
 - Click 'Open with Live server'
 
 ## How to view Remotely
